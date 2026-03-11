@@ -19,3 +19,7 @@ A web application for creating and storing graphs and finding the shortest path 
 - Designed an interactive platform using React.js for the front-end and Java Spring Boot with MySQL for the back-end, enabling users to build, visualize, and analyze graphs.
 - Implemented **Dijkstra’s algorithm** for optimal shortest path computation and **Manhattan distance** for precise node distance calculation.
 - Developed **RESTful APIs** using POST and GET requests in Java Spring Boot to store, retrieve, and update graph data in real time, ensuring seamless front-end and back-end communication.
+
+## How to run
+- Backend: .\mvnw.cmd spring-boot:run
+- Frontend: npm start
